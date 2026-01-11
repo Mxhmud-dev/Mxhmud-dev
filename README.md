@@ -1,158 +1,47 @@
-👋 Hi, I’m Mahmud
+# Muftau Mahmud – Data & AI
 
-Aspiring Machine Learning Engineer | Data Analyst | Python Developer
+## About Me
+I am a data enthusiast transitioning from **Data Analysis → Machine Learning → AI Engineering**. I am passionate about turning raw data into actionable insights and building intelligent systems that solve real-world problems.  
 
-I’m a data-driven problem solver building toward Machine Learning and AI engineering.
-My focus is on clean Python code, solid mathematics, and practical data analysis — not shortcuts.
-
-I enjoy breaking problems down, understanding algorithms from first principles, and turning messy data into useful insights.
-
+My journey is focused on developing end-to-end skills, from data cleaning and visualization to machine learning and AI deployment.
 
 ---
 
-🔍 Current Focus
+## Skills & Tech Stack
 
-Exploratory Data Analysis (EDA) & statistical reasoning
+**Programming & Tools**  
+- Python 3
+- IDEs: VS Code (with Jupyter extensions), PyCharm  
 
-Data wrangling with NumPy & Pandas
+**Data Analysis & Visualization**  
+- pandas, NumPy, matplotlib  
+- Excel (currently learning)  
 
-Writing clean, readable Python (OOP & functional style)
+**Data Management & BI**  
+- SQL (in progress), Tableau BI (in progress)  
 
-Git & GitHub workflows
+**NLP / Machine Learning Foundations**  
+- TextBlob, basic sentiment analysis pipelines  
+- Preparing for more advanced ML and AI models  
 
-Mathematical foundations for ML (linear algebra, calculus, probability)
-
-
-
----
-
-🛠️ Tech Stack
-
-Languages
-
-Python
-
-
-Data Analysis & Visualization
-
-NumPy, Pandas
-
-Matplotlib, Seaborn
-
-Power BI, Advanced Excel
-
-
-Databases
-
-SQL (PostgreSQL, MySQL)
-
-
-Tools
-
-Git & GitHub
-
-Jupyter Notebooks
-
-
+**Version Control & Workflow**  
+- Git, GitHub, releases  
 
 ---
 
-📊 Areas I’ve Worked With
-
-Financial data analysis
-
-Business intelligence
-
-Social media analytics
-
-
+## Learning Roadmap
+1. Strengthen **SQL** and **BI tools** for structured data analysis  
+2. Build predictive models with **scikit-learn and TensorFlow**  
+3. Explore **Natural Language Processing (NLP)** and **AI pipelines**  
+4. Deliver end-to-end solutions: data ingestion → modeling → visualization → deployment  
 
 ---
 
-🧠 Learning Roadmap
-
-Now — Data Analysis & Foundations
-
-Advanced Pandas workflows
-
-SQL querying & data modeling
-
-Statistics & visualization
-
-Building real-world analysis projects
-
-
-Next — Machine Learning
-
-Scikit-learn & classical ML algorithms
-
-Feature engineering
-
-Model evaluation & validation
-
-
-Later — Deep Learning & AI Engineering
-
-TensorFlow / PyTorch
-
-Neural networks & deep learning
-
-Model deployment & MLOps
-
-
+## Career Objective
+I aim to leverage my growing skills in **data analysis, ML, and AI engineering** to build intelligent, scalable, and impactful solutions for businesses and innovative projects.  
 
 ---
 
-🎯 Interests
-
-FinTech & quantitative analysis
-
-Predictive analytics & forecasting
-
-Natural language processing
-
-Decision support systems
-
-
-
----
-
-🌍 Background
-
-Strong foundation in Linear Algebra & Calculus
-
-Self-directed learner
-
-Based in Nigeria 🇳🇬
-
-
-
----
-
-🤝 Open to
-
-Entry-level Data Analyst roles
-
-Freelance data analysis projects
-
-Open-source collaboration
-
-Learning-focused partnerships
-
-
-
----
-
-📫 Reach Me
-
-LinkedIn: https://www.linkedin.com/in/mahmud-analyst
-
-Email: muftaumahmud4382@gmail.com
-
-
-> Building intelligent systems, one dataset at a time.
-
-
-
-
----
+## Contact
+- [LinkedIn](linkedin.com/in/mahmud-analyst)  
+- [Email](muftaumahmud4382@gmail.com)
