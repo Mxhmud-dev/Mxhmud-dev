@@ -43,5 +43,5 @@ I aim to leverage my growing skills in **data analysis, ML, and AI engineering**
 ---
 
 ## Contact
-- [LinkedIn](linkedin.com/in/mahmud-analyst)  
-- [Email](muftaumahmud4382@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/mahmud-analyst)  
+- [Email](mailto:muftaumahmud4382@gmail.com)
